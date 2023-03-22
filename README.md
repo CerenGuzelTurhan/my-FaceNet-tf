@@ -24,7 +24,7 @@ Face detection with OpenCV haar, dlib or MTCNN detector
 Face alignment with OpenCV haar aligner, Dlib facial landmarks or MTCNN aligner
 
 ### Step 3: 
-Feature Extractor ( optinal) with PCA or FaceNet embeddings
+Feature Extractor (optional) with PCA or FaceNet embeddings
 
 ### Step 4: 
 Face classification with FaceNet or Scikit-learn SVM classifiers
